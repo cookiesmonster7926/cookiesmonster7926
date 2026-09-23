@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=180&section=header&text=Welcome!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" />
+<img src="assets/banner.svg" width="100%" />
 
 # Hi, I'm CookiesMonster 👋
 
